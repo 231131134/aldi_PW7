@@ -1,0 +1,35 @@
+Latihan Pert-07:
+> GIT dan Github
+1. Login ke dalam akun github kalian masing-masing
+2. Buat sebuah repository dengan nama repository berupa: [nama depan Anda]_PW7
+Contoh: apriyanto_PW7
+3. Buka git bash yang ada pada komputer lab
+4. Lakukan konfigurasi dasar terhadap git bash berupa:
+- menambahkan username
+- menambahkan email
+- menambahkan remote dengan nama [nama depan Anda], dan untuk link gunakan link yang dijelaskan dikelas
+5. Buat sebuah folder dengan Pert-07, dan masuk ke dalam folder tersebut
+6. Lakukan proses clone terhadap repository global yang telah Anda buat sebelumnya
+
+>Perancangan Web
+1. Copy kembali kode Anda (HTML dan CSS saja) yang ada pada Pertemuan-05 ke dalam folder Pert-07 (yang telah dibuat sebelumnya)
+2. Ubah semua elemen video maupun audio menjadi image
+3. Gunakan gambar yang telah disediakan oleh dosen.
+> Silahkan pilih salah satu dari 2 gambar berikut ini (hanya salah satu saja):
+- Link Gambar 1: https://bit.ly/GbrLat-07_PW
+- Link Gambar 2: https://bit.ly/GbrLat-07_PW1
+4. Ubah untuk setiap gambar yang ada, menjadi gambar yang diberikan oleh dosen.
+5. Sesuaikan ukuran gambar menjadi width 400px height 300px
+6. Update warna dan tampilan menjadi lebih menarik.
+
+>GIT dan Github Lanjutan
+1. Lakukan commit dengan pesan = "Tugas Praktek Pertemuan-07"
+NB: Ingat kembali, apa yang harus dilakukan sebelum melakukan proses commit
+2. Lakukan proses push ke dalam repository global
+3. Pastikan di dalam github repository hanya ada 4 buah file, yaitu:
+- README.md (optional)
+- index.html
+- gaya.css
+- gambar.jpg
+4. Lampirkan link github repository global kalian pada "Tempat Pengumpulan Praktek Pert-07" yang ada di Teams.
+5. Jika sudah melakukan tahapan diatas, silahkan laporkan kepada dosen.

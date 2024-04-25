@@ -1,0 +1,24 @@
+Perintah: git@github.com:OWNER/REPOSITORY.git
+Contoh: git@github.com:Apriyanto28/Pert-07_PW.git
+
+ssh = secure shell
+
+Perintah: ssh-keygen -t rsa -C "your_email@example.com"
+Contoh: ssh-keygen -t rsa -C "craziyuhuu@gmail.com"
+Setelah jalankan perintah diatas, maka kalian perlu memberikan perintah berupa:
+- Enter
+- y (optional kalau overwrite)
+- Enter
+- Enter
+
+Setelah itu, untuk cek public key ketikkan perintah:
+cat ~/.ssh/id_rsa.pub
+
+- Copykan semua key public yang tertampil
+- Masuk ke dalam github (pastikan kalian sudah login terlebih dahulu)
+- Klik pada bagian profile, lalu pilih menu Setting
+- Klik pada bagian SSH and GPG Keys
+- Klik tombol New SSH Key
+- Tuliskan judul pada bagian title (usahakan tidak pakai spasi)
+- Pastekan key yang tadi sudah kalian copy ke dalam box authentication key
+- Klik tombol Add SSH Key

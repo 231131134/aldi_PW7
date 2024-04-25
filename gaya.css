@@ -1,0 +1,50 @@
+h1.dua{
+    text-align: center;
+}
+span{
+    color: red;
+}
+img{
+    width: 400px;
+}
+span.dua{
+    color: bisque;
+}
+span.tiga{
+    color:aqua;
+}
+span.empat{
+    color: red;
+}
+span.lima{
+    color: blue;
+}
+span.enam{
+    color: brown;
+}
+span.tujuh{
+    color: blue;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+article.satu{
+    background-color: aqua;
+    color: black;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    border: 50px;
+    padding: 20px 40px;
+    margin: 10px 5px;
+}
+article.dua{
+    background-color: rgb(red, green, blue);
+    color: blue;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    border: 20px;
+    padding: 10px 30px;
+    margin: 20px 50px;
